@@ -1,11 +1,16 @@
 _repo: The-Log-of-a-Noncombatant_10918
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Horace
     gutenberg_agent_id: '3751'
     url: http://www.gutenberg.org/2009/agents/3751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10918#The-Log-of-a-Noncombatant
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
